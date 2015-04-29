@@ -1,2 +1,2 @@
 # SWEN1
-SWEN assignment
+SWEN1 is a repository for assignment 3.
